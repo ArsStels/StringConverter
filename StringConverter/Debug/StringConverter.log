@@ -1,0 +1,5 @@
+﻿  StringConverter.cpp
+C:\Users\ArsStels\source\repos\StringConverter\StringConverter\StringConverter.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ArsStels\source\repos\StringConverter\StringConverter\StringConverter.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ArsStels\source\repos\StringConverter\StringConverter\StringConverter.cpp(17,21): warning C4018: <: несоответствие типов со знаком и без знака
+  StringConverter.vcxproj -> C:\Users\ArsStels\source\repos\StringConverter\Debug\StringConverter.exe
